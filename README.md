@@ -1,2 +1,4 @@
 # ArewaDS-Fellowship
- I have just created new Repo on my Github
+Hi, wellcome to my new Repository
+My name is Godwin Stephen.
+I'm currently Learning Python Programming for Data Science @ Arew Data Science Academy
